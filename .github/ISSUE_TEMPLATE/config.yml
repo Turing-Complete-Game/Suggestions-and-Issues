@@ -1,5 +1,8 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Community Support
+  - name: Community Support (Discord)
     url: https://discord.gg/a5ycx8W6ZB
+    about: Please ask and answer questions here.
+  - name: Community Support (GitHub)
+    url: https://github.com/Turing-Complete-Game/Suggestions-and-Issues/discussions
     about: Please ask and answer questions here.
