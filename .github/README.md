@@ -9,3 +9,6 @@ If you don't find what you are looking for, click [New Issue](https://github.com
 
 ## Questions
 For Questions about the game or support with levels, Join our [Discord](https://discord.gg/a5ycx8W6ZB) Server!
+
+## FAQ
+[View the FAQ Here](https://github.com/Turing-Complete-Game/Suggestions-and-Issues/blob/main/.github/FAQ.md)
