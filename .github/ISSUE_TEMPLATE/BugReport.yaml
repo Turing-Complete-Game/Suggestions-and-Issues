@@ -34,6 +34,8 @@ body:
     attributes:
       label: Operating System
       description: What Operating System are you running on?
+    validations:
+      required: true
   - type: checkboxes
     id: terms
     attributes:
