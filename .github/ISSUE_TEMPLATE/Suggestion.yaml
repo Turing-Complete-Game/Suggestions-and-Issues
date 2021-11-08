@@ -14,7 +14,7 @@ body:
     attributes:
       label: Request?
       description: What do you want to see added to Turing Complete!
-      placeholder: Tell us what you see!
+      placeholder: Tell us what you want to see!
     validations:
       required: true
   - type: checkboxes
