@@ -12,3 +12,14 @@ For Questions about the game or support with levels, Join our [Discord](https://
 
 ## FAQ
 [View the FAQ Here](https://github.com/Turing-Complete-Game/Suggestions-and-Issues/blob/main/.github/FAQ.md)
+
+# Issue Definitions
+
+## Priority
+Priority is issued based on impact on user experience.
+
+`Severe`: Consistantly causes Crashing or prevents a user from playing the game entirely.
+
+`Moderate`: Inconvenience to the end user. From components incorrectly displaying to annoying behaviors.
+
+`Low`: Minor Issues that can go unnoticed or don't pose any issue to gameplay.
