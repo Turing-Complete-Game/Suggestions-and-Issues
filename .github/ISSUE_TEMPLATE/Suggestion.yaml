@@ -1,0 +1,27 @@
+name: Feature Request
+description: File a feature request
+title: "[Bug]: "
+labels: ["enhancement"]
+assignees:
+  - Stuffe
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this form!
+  - type: textarea
+    id: feature
+    attributes:
+      label: Request?
+      description: What do you want to see added to Turing Complete!
+      placeholder: Tell us what you see!
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](/CODE_OF_CONDUCT.md)
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true
