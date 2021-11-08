@@ -1,6 +1,6 @@
 name: Feature Request
 description: File a feature request
-title: "[Bug]: "
+title: "[Request]: "
 labels: ["enhancement"]
 assignees:
   - Stuffe
