@@ -40,3 +40,5 @@ Issues are broken down into categories to help organize the types of issues
 `Levels`: Issues with levels and tests.
 
 `Backend`: Issues with stuff behind the scenes. (Leaderboards, Verification, etc)
+
+`Controls`: Issues related to Key Inputs and Control Mappings
