@@ -15,10 +15,10 @@ For Questions about the game or support with levels, Join our [Discord](https://
 
 # Issue Definitions
 
-## Priority
-Priority is issued based on impact on user experience.
+## Severity
+Severity is issued based on impact on user experience.
 
-`Severe`: Consistantly causes Crashing or prevents a user from playing the game entirely.
+`Severe`: Consistently causes Crashing or prevents a user from playing the game entirely.
 
 `Moderate`: Inconvenience to the end user. From components incorrectly displaying to annoying behaviors.
 
