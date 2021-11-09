@@ -23,3 +23,18 @@ Severity is issued based on impact on user experience.
 `Moderate`: Inconvenience to the end user. From components incorrectly displaying to annoying behaviors.
 
 `Low`: Minor Issues that can go unnoticed or don't pose any issue to gameplay.
+
+## Category
+Issues are broken down into categories to help organize the types of issues
+
+`Graphics`: Visual Issues with the game.
+
+`Sub Systems`: Issues related to Components, Sub-Components, etc
+
+`UI`: Issues with the user interface.
+
+`UX`: Issues with the User Experience.
+
+`Levels`: Issues with levels and tests.
+
+`Backend`: Issues with stuff behind the scenes. (Leaderboards, Verification, etc)
