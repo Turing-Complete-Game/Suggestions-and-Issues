@@ -17,8 +17,8 @@ body:
                     Also tell us, what did you expect to happen? Please be as clear as possible. If I can recreate the issue on my computer, you will likely see the patch very soon.
                     You can upload your save as a .zip by dragging and dropping to the textbox below. Depending on your operating system, your save will be in the following folder:
                     Windows	  %AppData%\godot\app_userdata\Turing Complete
-                    Mac:    	~/Library/Application Support/Godot/app_userdata/Turing Complete
-                    Linux	    ~/.local/share/godot/app_userdata/Turing Complete
+                    Mac:    	~'/Library/Application Support/Godot/app_userdata/Turing Complete'
+                    Linux	    ~'/.local/share/godot/app_userdata/Turing Complete'
       placeholder: Tell us what you see!
       value: "A bug happened!"
     validations:
