@@ -13,7 +13,7 @@ If you don't find what you are looking for, click [New Issue](https://github.com
 Suggestions are not limited just to the game. If you feel something can be added to this Repo or the discord to help with the community experience feel free to let us know and open a discussion!
 
 ## Questions
-For Questions about the game or support with levels, Join our [Discord](https://discord.gg/a5ycx8W6ZB) Server!
+For Questions about the game or support with levels, Ask in our [Q&A Section](https://github.com/Turing-Complete-Game/Suggestions-and-Issues/discussions/categories/q-a), or Join our [Discord](https://discord.gg/a5ycx8W6ZB) Server!
 
 ## FAQ
 [View the FAQ Here](https://github.com/Turing-Complete-Game/Suggestions-and-Issues/blob/main/.github/FAQ.md)
