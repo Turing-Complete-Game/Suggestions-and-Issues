@@ -3,6 +3,9 @@
 # Welcome to the Bug Report and Feature Request Board
 This was created as an easy way for the developer to manage feedback and issues with the game.
 
+
+If you encounter issues or content that may go against our [Code of Conduct](https://github.com/Turing-Complete-Game/Suggestions-and-Issues/blob/main/.github/CODE_OF_CONDUCT.md) please ping `@community-moderator` in the relavent issue/discussion
+
 ## Bug Reports and Feature Requests
 To create a New Request, Check the [ISSUES](https://github.com/Turing-Complete-Game/Suggestions-and-Issues/issues) page to see if your issue/feature has already been reported.
 If you don't find what you are looking for, click [New Issue](https://github.com/Turing-Complete-Game/Suggestions-and-Issues/issues/new/choose)
