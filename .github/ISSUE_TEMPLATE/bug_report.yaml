@@ -35,12 +35,14 @@ body:
   - type: dropdown
     id: OS
     attributes:
-      label: What browsers are you seeing the problem on?
+      label: What OSes are you seeing the problem on?
       multiple: true
       options:
         - Windows
         - MacOS
         - Linux
+    validations:
+      required: true
   - type: textarea
     id: logs
     attributes:
